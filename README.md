@@ -1,6 +1,6 @@
-###CSS-GRID-SUBLIME-SNIPPETS
+### CSS-GRID-SUBLIME-SNIPPETS
 
-####CSS Grid Snippets port for Sublime Text
+#### CSS Grid Snippets port for Sublime Text
 
 ---
 
