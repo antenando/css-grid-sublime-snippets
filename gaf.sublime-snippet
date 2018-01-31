@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[grid-auto-flow: ]]></content>
+	<tabTrigger>gaf</tabTrigger>
+    <description>Control the auto placement algorithm</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

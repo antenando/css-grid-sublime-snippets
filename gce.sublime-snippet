@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[grid-column-end: ]]></content>
+	<tabTrigger>gce</tabTrigger>
+    <description>Set up the end column of a line based placement</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

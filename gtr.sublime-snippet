@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[grid-template-rows: ]]></content>
+	<tabTrigger>gtr</tabTrigger>
+    <description>Set up space-separated row track list</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

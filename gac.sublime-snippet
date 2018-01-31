@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[grid-auto-columns: ]]></content>
+	<tabTrigger>gac</tabTrigger>
+    <description>Specify the size of implicitly-created column tracks</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

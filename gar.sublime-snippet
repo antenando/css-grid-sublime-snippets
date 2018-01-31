@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[grid-auto-rows: ]]></content>
+	<tabTrigger>gar</tabTrigger>
+    <description>Specify the size of implicitly-created row tracks</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

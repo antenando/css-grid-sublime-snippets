@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[grid-row-end: ]]></content>
+	<tabTrigger>gre</tabTrigger>
+    <description>Specify the end row of a line based placement</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

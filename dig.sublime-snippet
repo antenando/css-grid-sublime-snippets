@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[display: inline-grid;]]></content>
+	<tabTrigger>dig</tabTrigger>
+    <description>Set up an inline grid container</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

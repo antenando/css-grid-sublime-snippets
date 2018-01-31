@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[grid-gap: ]]></content>
+	<tabTrigger>gg</tabTrigger>
+    <description>Specify the size of gaps between rows and columns</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

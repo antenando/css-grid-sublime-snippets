@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[grid-column: ]]></content>
+	<tabTrigger>gc</tabTrigger>
+    <description>Set up the start and end columns of a line based placement</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

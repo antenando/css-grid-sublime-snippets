@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[grid-area: ]]></content>
+	<tabTrigger>ga</tabTrigger>
+    <description>Place items into a named area</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

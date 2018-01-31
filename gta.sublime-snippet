@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[grid-template-areas: ]]></content>
+	<tabTrigger>gta</tabTrigger>
+    <description>Set up named areas for a grid</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

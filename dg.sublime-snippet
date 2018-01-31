@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[display: grid;]]></content>
+	<tabTrigger>dg</tabTrigger>
+    <description>Set up a grid container</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
